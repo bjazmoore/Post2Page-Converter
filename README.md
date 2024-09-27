@@ -10,7 +10,10 @@ On the MacOS or Linux operating system execute the tool using it as a Python scr
 
 [Post2Page.exe for Windows](https://github.com/bjazmoore/Post2Page-Converter/releases/tag/v.0.1.0)
 
-Using the scripts on other operating systems (MacOS or Linux) requires a local copy of Python 3 (usually installed).  Download repository to obtain the source files.  Make sure they are both in the same folder.  Launch the program by opening a terminal prompt, navigating to that folder and issuing the commmand:
+Using the scripts on other operating systems (MacOS or Linux) requires a local copy of Python 3 (usually installed).  
+1. Download repository to obtain the source files.
+2. Make sure they are both in the same folder.
+3. Launch the program by opening a terminal prompt, navigating to that folder and issuing the commmand:
 
 ```
 python ./main.py
