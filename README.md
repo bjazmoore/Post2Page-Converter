@@ -22,6 +22,8 @@ Using the scripts on other operating systems (MacOS or Linux) requires a local c
 python ./main.py
 ```
 
+**Warning** I have not tested this script on the MacOS or Linux OS, as I do not have access to these.  I expect that things will work, bu there is certainly a possiblity they will not.
+
 ## How to Use Post2Page Converter
 
 **Always backup your site before converting posts to pages.**
