@@ -48,6 +48,8 @@ After converting that post to a Page set it to your new homepage (as shown below
 
 ![figure 6](https://github.com/user-attachments/assets/7c5213a4-eda6-4448-b721-d07d51347b5f)
 
+## Warnings and License
+
 **WARNING: It is not required to close Publii when converting posts to pages but I highly recommend it.**
 
 Licensed MIT.  The author assumes no responsibility for issues, problems, lost data, etc for using this tool.  Backup you site first!
