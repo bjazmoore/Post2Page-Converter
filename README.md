@@ -6,9 +6,12 @@ This utility will convert a Post to a Page in Publii 0.46.x
 I created this utility to aid in quickly converting posts from Publii before 0.46.x that were used as pages into actual pages in Publii 0.46.x or later.  The utility is written in Python 3.x.  It is a GUI application using the TKinter library (as ugly as that is).  I have created an executable for the windows environment that can be downloaded [here](https://github.com/bjazmoore/Post2Page-Converter/releases/tag/v.0.1.0).
 On the MacOS or Linux operating system execute the tool using it as a Python script.
 
-## Downloading the Windows Executable
+## Downloading the Program
+### Windows
 
 [Post2Page.exe for Windows](https://github.com/bjazmoore/Post2Page-Converter/releases/tag/v.0.1.0)
+
+### MacOS & Linux
 
 Using the scripts on other operating systems (MacOS or Linux) requires a local copy of Python 3 (usually installed).  
 1. Download repository to obtain the source files.
