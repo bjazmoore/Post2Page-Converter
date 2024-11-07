@@ -1,6 +1,8 @@
 # Post2Page Converter
 version 0.1.0 - 9/27/2024
 
+# THIS UTILITY HAS BEEN RETIRED AS THE FUNCTIONALITY IS NOW PART OF PUBLII NATIVELY
+
 This utility will convert a Post to a Page in Publii 0.46.x
 
 I created this utility to aid in quickly converting posts from Publii before 0.46.x that were used as pages into actual pages in Publii 0.46.x or later.  The utility is written in Python 3.x.  It is a GUI application using the TKinter library (as ugly as that is).  I have created an executable for the windows environment that can be downloaded [here](https://github.com/bjazmoore/Post2Page-Converter/releases/tag/v.0.1.0).
